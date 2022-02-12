@@ -87,7 +87,7 @@ function show(event) {
     })
 
     /*
-     * append image to the UI, and initialize the drag
+     * Append image to the UI, and initialize the drag
      * we also created a attribute to store the 
      * path of this image (we need this when draggind and dropping)
      */
